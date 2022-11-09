@@ -17,3 +17,5 @@
 
 ![](https://raw.githubusercontent.com/OtaraAlex/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/OtaraAlex/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OtaraAlex&show_icons=true&locale=en&layout=compact" alt="OtaraAlex" /></p>
