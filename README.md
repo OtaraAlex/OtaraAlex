@@ -18,6 +18,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-otara/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OtaraAlex) 
+<h5><a href="https://t.me/OtaraAlex">telegram</a></h5>
+<h5><a href="mailto: mbechealex61@gmail.com">mbechealex61@gmail.com</a></h5>
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=OtaraAlex&bg_color=000000&color=009959&line=009959&point=none&area=true&area_color=009959&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
