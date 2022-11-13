@@ -17,7 +17,9 @@
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-otara/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OtaraAlex) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/OtaraAlex)
+[!Telegram](https://img.shields.io/badge/Telegram.svg?logo=Telegram&logoColor=white)](https://t.me/OtaraAlex)
+  
 <h5><a href="https://t.me/OtaraAlex">telegram</a></h5>
 <h5><a href="mailto: mbechealex61@gmail.com">mbechealex61@gmail.com</a></h5>
 
