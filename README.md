@@ -4,7 +4,7 @@
 **Delighted to have you check out my profile 🙂**
 
 - 🌟 I'm currently learning Software Engineering with ALX Africa
-- ⚡ Fun fact:I sleep no earlier than 0000hrs
+- ⚡ Fun fact: I sleep no earlier than 0000hrs
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OtaraAlex&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
 
