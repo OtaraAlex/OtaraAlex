@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otaraalex&show_icons=true&locale=en" alt="otaraalex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otaraalex&" alt="otaraalex" /></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtaraAlex&langs_count=10) 
