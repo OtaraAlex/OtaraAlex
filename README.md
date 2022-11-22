@@ -14,9 +14,9 @@
 <a href="https://instagram.com/alexotara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexotara_" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaraalex&show_icons=true&locale=en&layout=compact" alt="otaraalex" /></p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otaraalex&show_icons=true&locale=en" alt="otaraalex" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otaraalex&" alt="otaraalex" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaraalex&show_icons=true&locale=en&layout=compact" alt="otaraalex" /></p>
