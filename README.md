@@ -8,7 +8,6 @@
 - ⚡ Fun fact **I watch when I'm not coding.**
 
 <img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=OtaraAlex&show_icons=true&hide_border=false&border_color=2fa4e7&count_private=true&theme=github_dark"/>
-
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=OtaraAlex&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
 </div>
 
