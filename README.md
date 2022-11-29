@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mbechealex61@gmail.com**
 
-- ⚡ Fun fact **I watch when I'm not coding.**
+- ⚡ Fun fact **I sleep no earlier than 0000Hrs.**
 
 <img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=OtaraAlex&show_icons=true&hide_border=false&border_color=2fa4e7&count_private=true&theme=github_dark"/>
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=OtaraAlex&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
@@ -19,3 +19,5 @@
 </p>
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=OtaraAlex&bg_color=000000&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![](https://raw.githubusercontent.com/OtaraAlex/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
