@@ -18,6 +18,5 @@
 <a href="https://instagram.com/alexotara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexotara_" height="30" width="40" /></a>
 </p>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=OtaraAlex&bg_color=000000&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![](https://raw.githubusercontent.com/OtaraAlex/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=OtaraAlex&bg_color=000000&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
