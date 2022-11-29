@@ -14,9 +14,7 @@
 <a href="https://instagram.com/alexotara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexotara_" height="30" width="40" /></a>
 </p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otaraalex&show_icons=true&locale=en" alt="otaraalex" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=otaraalex&" alt="otaraalex" /></p>
+![](https://raw.githubusercontent.com/OtaraAlex/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otaraalex&show_icons=true&locale=en&layout=compact" alt="otaraalex" /></p>
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=OtaraAlex&bg_color=000000&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
