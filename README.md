@@ -7,6 +7,12 @@
 
 - ⚡ Fun fact **I'm fluent in English, Swahili & French**
 
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/alex-otara"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OtaraAlex"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  
 ## 📊 My Github Stats
 
   <br/>
