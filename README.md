@@ -19,3 +19,4 @@
     <a href="https://github.com/OtaraAlex/github-readme-stats"><img alt="Alex Otara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OtaraAlex&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/OtaraAlex/github-readme-stats"><img alt="OtaraAlex's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtaraAlex&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OtaraAlex&theme=github&bg_color=000000&hide_border=true&line=2fa4e7&color=2fa4e7)](https://github.com/ashutosh00710/github-readme-activity-graph)
