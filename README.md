@@ -1,11 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otaraalex&label=Profile%20views&color=0e75b6&style=flat"
         alt="otaraalex" /> </p>
 
-
-<div align="center">
-    <h1>WELCOME TO MY WORLD</h1>
-    <img src="htps://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
-</div>
+<h1 align="center">WELCOME TO MY WORLD!<img src="htps://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /></h1>
 
 <p align="center">Good code and coffee are best served fresh! ☕👩‍💻</p>
 
