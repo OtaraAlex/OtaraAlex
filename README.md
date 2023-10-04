@@ -23,6 +23,10 @@
     </a>
 </h3>
 
+---
+
+[!Alex Otara's Holopin board](https://holopin.me/otaraalex)](https://holopin.io/@otaraalex)
+
 <details align="center">
     <summary><b>Click to view my stats:</b></summary>
     <img height="180em" alt="Alex's GitHub Stats"
