@@ -24,9 +24,9 @@
 </h3>
 
 ---
-<h2 align="center">My Badges
+
 [![Alex Otara's Holopin board](https://holopin.me/otaraalex)](https://holopin.io/@otaraalex)
-</h2>
+
 <details align="center">
     <summary><b>Click to view my stats:</b></summary>
     <img height="180em" alt="Alex's GitHub Stats"
