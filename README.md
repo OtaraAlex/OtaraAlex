@@ -23,9 +23,9 @@
     </a>
 </h3>
 
----
+<!-----
 
-<!--[![Alex Otara's Holopin board](https://holopin.me/otaraalex)](https://holopin.io/@otaraalex)-->
+[![Alex Otara's Holopin board](https://holopin.me/otaraalex)](https://holopin.io/@otaraalex)-->
 
 <details align="center">
     <summary><b>Click to view my stats:</b></summary>
