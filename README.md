@@ -12,7 +12,7 @@
 
 
 <h3 align="center">
-    <a href="https://www.alexotara.tech">
+    <a href="https://www.alexotara.com">
         <img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge">
     </a>
     <a href="https://blog.alexotara.tech">
