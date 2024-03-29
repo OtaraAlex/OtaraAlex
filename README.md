@@ -15,7 +15,7 @@
     <a href="https://www.alexotara.com">
         <img src="https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge">
     </a>
-    <a href="https://blog.alexotara.tech">
+    <a href="https://blog.alexotara.com">
         <img src="https://img.shields.io/badge/BLOG-green?style=for-the-badge">
     </a>
     <a href="mailto:mbechealex61@gmail.com">
