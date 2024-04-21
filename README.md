@@ -5,11 +5,14 @@
 
 <p align="center">Good code and coffee are best served fresh! ☕👩‍💻</p>
 
-<div align="center">
+<!---<div align="center">
     <img src="https://media1.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47od7dyactuj4ihqovl2roz30ilug6vvjag8w7sw9p&rid=giphy.gif&ct=g"
         width="600" height="300" />
-</div>
+</div> -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
 <h3 align="center">
     <a href="https://www.alexotara.com">
