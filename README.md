@@ -21,7 +21,7 @@
     <a href="https://blog.alexotara.com">
         <img src="https://img.shields.io/badge/BLOG-green?style=for-the-badge">
     </a>
-    <a href="mailto:mbechealex61@gmail.com">
+    <a href="mailto:contact@alexotara.com">
         <img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge">
     </a>
 </h3>
@@ -34,6 +34,6 @@
     <summary><b>Click to view my stats:</b></summary>
     <img height="180em" alt="Alex's GitHub Stats"
         src="https://github-readme-stats.vercel.app/api?username=OtaraAlex&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true">
-    <img height="180em" alt="Alex's Top Languages"
+   <img height="180em" alt="Alex's Top Languages"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=OtaraAlex&layout=compact&theme=transparent&hide_border=true&count_private=true">
 </details>
